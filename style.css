@@ -366,8 +366,19 @@ margin: 5px;
    display: flex;
    position: relative;
    top:-190px;
+   overflow: hidden; 
+}
+.product-three{
+   display: flex;
+   position: relative;
+   top:-200px;
    overflow: hidden;
-   
+}
+.product-four{
+   display: flex;
+   position: relative;
+   top:-210px;
+   overflow: hidden;
 }
 /* singin-page */
 .signin-box{
